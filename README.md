@@ -7,4 +7,4 @@
 *Peço desculpas antecipadamente caso a imagem de fundo não seja carregada corretamente, pois ela tem um tamanho de arquivo bastante pesado.*
 
 ## Preview
-![preview](dosc/media/screenshot.png)
+![preview](docs/media/screenshot.png)
